@@ -112,3 +112,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+discord_token.txt
+openai_api_key.txt
+.idea
