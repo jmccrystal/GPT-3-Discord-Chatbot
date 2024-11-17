@@ -1,4 +1,4 @@
-# Discord GPT Chatbot
+# GPT-3 Discord Chatbot
 
 A Discord bot that uses OpenAI's GPT-3 model to engage in casual conversations with users. The bot maintains context by reading previous messages and responds in a casual, friendly manner.
 
